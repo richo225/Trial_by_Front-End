@@ -40,10 +40,22 @@ li a {
 }
 
 .header-top {
+  /*position: relative;*/
   background-color: black;
   height: 100px;
   line-height: 100px;
 }
+
+.logo {
+  /*position: absolute;
+  top: 50%;
+  height: 100px;
+  margin-top: -50px;*/
+}
+  .logo img  {
+    height: 50px;
+    width: 400px;
+  }
 
 .account {
   color: #bdbdbd;
@@ -63,7 +75,11 @@ li a {
   }
 
 .main-btn {
-
+  background-color: #de25cb;
+  font-size: 1.2em;
+  color: white;
+  padding: 5px 20px;
+  border: none; 
 }
 
 .small-info {
@@ -100,9 +116,16 @@ li a {
   }
 
 .action-btn {
-  
+
 }
 
+.bottom-info {
+  text-align: center;
+  height: 200px;
+  width: 600px;
+  margin: 0 auto;
+  font-size: 1.4em;
+}
 
 /**/SimpleGrid
 
