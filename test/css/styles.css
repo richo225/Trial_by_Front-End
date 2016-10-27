@@ -34,6 +34,21 @@ li a {
   text-decoration: none;
 }
 
+input {
+  font-size: 1.2em;
+  font-style: italic;
+  padding: 15px 10px;
+  background-color: #747474;
+}
+
+footer {
+  color: white;
+  background-color: #de25cb;
+  /*height: 50px;*/
+  text-align: center;
+  line-height: 50px;
+}
+
 .container {
   max-width: 100%;
   margin: 0 auto;
@@ -46,16 +61,21 @@ li a {
   line-height: 100px;
 }
 
-.logo {
+.main-logo {
   /*position: absolute;
   top: 50%;
   height: 100px;
   margin-top: -50px;*/
 }
-  .logo img  {
-    height: 50px;
-    width: 400px;
-  }
+  .logo {
+      color: white;
+      font-size: 3em;
+    }
+  .ipsum {
+      color: #de25cb;
+      font-size: 3em;
+      font-weight: 700;
+    }
 
 .account {
   color: #bdbdbd;
@@ -79,7 +99,6 @@ li a {
   font-size: 1.2em;
   color: white;
   padding: 5px 20px;
-  border: none; 
 }
 
 .small-info {
@@ -111,20 +130,40 @@ li a {
 .location {
   line-height: 25px;
 }
+  .location-title {
+    color: #de25cb;
+    font-size: 1.5em;
+    margin-bottom: 8px;
+  }
   .location img {
     width: 100%;
   }
 
 .action-btn {
-
+  width: 100%;
+  font-size: 1.0em;
+  background-color: #bebebe;
+  padding: 10px 0;
 }
 
 .bottom-info {
   text-align: center;
   height: 200px;
   width: 600px;
-  margin: 0 auto;
+  margin: 100px 0;
   font-size: 1.4em;
+}
+  .bottom-info p {
+
+  }
+
+.sub-footer {
+  background-color: #484849;
+  height: 250px;
+}
+
+.subscribe-btn {
+  background-color: #e7e7e7;
 }
 
 /**/SimpleGrid
