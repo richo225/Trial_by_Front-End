@@ -5,6 +5,9 @@ A simple website built with responsiveness in mind, based on .psd files provided
 
 This was a really enjoyable challenge as it covered many aspects of front-end development including sprites, CSS-animations, media queries and working with Photoshop/Illustrator. I spent roughly 8/9 hours on this task and would liked to have finished the responsiveness of the social icon footer if I had more time.
 
+![screen shot 2016-10-28 at 08 00 53](https://cloud.githubusercontent.com/assets/18379191/19813183/63a2d1e0-9d30-11e6-9af1-2255a7f478c4.png)
+![screen shot 2016-10-28 at 08 01 48](https://cloud.githubusercontent.com/assets/18379191/19813182/63a23ed8-9d30-11e6-9a5c-fe4a3bfb470b.png)
+
 Specifications
 -------------
 ### First stage
