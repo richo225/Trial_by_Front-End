@@ -1,9 +1,12 @@
-# Developer's brief
-## General information
-This front-end test has been designed to bring out your skills as a front end developer. We will take into consideration the quality of your code, your speed to complete the tasks, your ability to understand the requirements and how close you can match the design PSD provided.
+Cyber-Duck Tech Test
+===================
 
-The test should be completed entirely. Remember to record the time used to complete the test, we will require this information along with the test files.
+A simple website built with responsiveness in mind, based on .psd files provided for phones, tablets and desktop screens. I used [Simple-Grid](https://github.com/ThisIsDallas/Simple-Grid) as a very minimal package for grid layouts.
 
+This was a really enjoyable challenge as it covered many aspects of front-end development including sprites, CSS-animations, media queries and working with Photoshop/Illustrator. I spent roughly 8/9 hours on this task and would liked to have finished the responsiveness of the social icon footer if I had more time.
+
+Specifications
+-------------
 ### First stage
 In the first stage, the following is expected to be completed:
 - Desktop layout
